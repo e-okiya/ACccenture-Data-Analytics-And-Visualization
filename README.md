@@ -21,7 +21,7 @@ Task one involved
 This task involved
 
 - Identifying which datasets will be required to answer the client’s business question which is to identify the top 5 categories with the latfgest popularity.
-- Cleaning the datasets and merge=ing them to prepare the data for analysis.
+- Cleaning the datasets and merging them to prepare the data for analysis.
 - Determininig the answer to the client’s business question.
 
 
